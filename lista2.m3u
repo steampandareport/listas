@@ -1,90 +1,271 @@
 #EXTM3U
-#EXTINF:-1,Amazon Sat HD
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?MEGAMAXIPTV
-#EXTINF:-1,BET
-http://espn.tmedia.me/cache/bet.m3u8?token=QYwuFJwwBCw9Y0xGwfrLrw&e=1561274802
-#EXTINF:-1,TVI
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/3974.m3u8
-#EXTINF:-1,TVI 2a2
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/3946.m3u8
-#EXTINF:-1,FOX LIFE
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17057.m3u8
-#EXTINF:-1,NET TV
-http://unlimited5-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=29889006
-#EXTINF:-1,TELE 5
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/2695.m3u8
-#EXTINF:-1,TELEFE
-http://unlimited5-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=29888703
-#EXTINF:-1,TELEFE 720p
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqYEPRDd5CBpYZt7UxuFLjurDsM-LA-raoStVPgu_atm0QEfVf3Yrky-cz7a1NiL67kYRTNO1GyRUAQqcgtesgCfuBcVlDKEzLmzmyGErG5AmsYwpOtGz8VSjSG2-ZDX0vW1d6f2cxjHtFCsVrdLCG2oYq4Q07JZLZE8uXnxOqs-2JJtSYceGzJAJ0DMP8FuJBCixP6fSxs54C8OnJ9osreejMkYwBMdORG6x-6FCM1CjRMxdNKsqUnmw8zm7R35H9mhhvpdZoXCq-hpFqCGsOmbm4Hf96IHcCBXc4wa8K-R48m_IGwG4AbABlK2iJ7MyCpONNtxBHAGFB7eW48jG8FJoD6bAZxPcLXwC0dmx19djWWixdFqVJRLZDdji-r3msJSWTWQonIMhaFwFJT3xRjwCSneolcwQBewRbVusH94HDRceVKwnK7TsuFudPwkiBOcS6nxLdbA5lpLISbAGxpYhrFmrpqdKgKcrjdbNeHcAyBiUuAIHxYNmDlZemyssrUgU4Wex_K6cyq9LLvjBgJ0pgCVjyUplnKCB7yq_TXrigtNVOLXewuCdtb99CjPaAMkWcTfAQi_vWx1wLW8GVHQvlpbo0NHco3bF7f5b8hwSr2YLjLjgKFGWhENPLNz8abhKSpAgobUX_otrOopbcdgE1jMYCM9OKOqkEZhmWgeefrD3_MabgMjRi9PvUyRRHf9KSpZoGVVInTlJjLDrFXSiLkCvl3onRIQeCq_aSoS4uuVhr7O2nMH1hoMMozN4SbkaR-PlGJz.m3u8
 
 
 
 
-#EXTINF:-1,CBN
-http://sv6.dailymotion.com.1cdn.host/live/cbs/chunks.m3u8
-#EXTINF:-1,NBC 
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/8549.m3u8
-#EXTINF:-1,CBS
-http://sv6.dailymotion.com.1cdn.host/live/cbs/chunks.m3u8
-#EXTINF:-1,ABC
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/136.m3u8
-#EXTINF:-1,ABC f
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/132.m3u8
-#EXTINF:-1,DISNEY
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/29079.m3u8
-#EXTINF:-1,SONY
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/7366.m3u8
-#EXTINF:-1,AXN
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17070.m3u8
-#EXTINF:-1,Globo News
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/7303.m3u8
-#EXTINF:-1,Canal Sony
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17032.m3u8
-#EXTINF:-1,History Channe2
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17050.m3u8
-#EXTINF:-1,History Channel
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17043.m3u8
-#EXTINF:-1,Syfy 
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/29063.m3u8
-#EXTINF:-1,FX
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17053.m3u8
-#EXTINF:-1,FOX
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17058.m3u8
-#EXTINF:-1,TNT
-http://iptv-line.comhttp://moveplay.org:8000/live/promo/12875575/1595.m3u8
-:6969/live/ps3107452+a2@gmail.com/asdfgh12/17023.m3u8
-#EXTINF:-1,TNT Series
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17022.m3u8
-#EXTINF:-1,SIC
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/3998.m3u8
-
-http://198.255.22.50:25461/live/promo/12875575/1597.m3u8?token=ShFaVEdbFQ1DVFAFAFdRC1ENAgAFVFJQAgMCAAAHWlMAUAcBB1YFU1UTTkEWERFXAlg+CFYQWFACCQccRxAQU0NsW1EWCRUAUQRRW1xHTxAXXAwEEAhSTRVAWVRHX0EPAQEGFxgRUk8VVBANBAk8VgZDCAJXEFgPQlxcHEcKDWlVVl9UWlcVDUMBQE9HDBBCQQ9DIl5TEA4XYx5xS0dPFFNaRkdVR1IVWxNTW1RdQR5BVg4UXEYQGBUKEnI3R08UVEtGUFpAXlgPE1hBCFYWCkEZQwhBbRAERERCVQQIBkQTCRAFFh8VWgBJPQAKCw1XAEEIDlxBQFsVBQASSUcOWV9aRlpGbEdeBRNYQVBVUgNBSA==
-#EXTINF:-1,MTV FHD
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/8556.m3u8
-#EXTINF:-1,MTV
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/5689.m3u8
-#EXTINF:-1,MULTSHOW
-https://cdnfe1.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=
-#EXTINF:-1,BIS
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/8055.m3u8
-#EXTINF:-1,Disney Channelw7
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17531.m3u8
-#EXTINF:-1,VIVA
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/7316.m3u8
-#EXTINF:-1,a6
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17042.m3u8
-#EXTINF:-1,E
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/7359.m3u8
-#EXTINF:-1,AE
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/29083.m3u8
-#EXTINF:-1,VH1
-http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/30669.m3u8
-#EXTINF:-1,Syfy
-https://br.spankbang.com/stream/NTQ3NDY1MA.FScGFnrbvUJJa41Y2grxkVoYs0I.mp4
-
-#EXTINF:-1,RECORD
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8?sts=st=1568945545~exp=1568952145~acl=/*~hmac=fcbc862ead304bf38e93f82f3345c45e868b3a092aecf7da3eb2af962205070e
+#EXTINF:-1 tvg-name="Viva HD" tvg-logo="http://a5.vc/Qin" group-title="CANAIS | VARIEDADES",Viva HD
+http://srvx.io:80/3689259212/fireurl.co/1683
 
 
-#EXTM3U
+
+#EXTINF:-1 tvg-name="Viva FHD" tvg-logo="http://a5.vc/Qin" group-title="CANAIS | VARIEDADES",Viva FHD
+http://srvx.io:80/3689259212/fireurl.co/25402
+
+
+
+#EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepremium.png" group-title="CANAIS: GLOBOSAT FILMES",Telecine Premium HD
+http://stream-sky.cf:80/andre123/andre123/308
+
+
+
+#EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepipoca.png" group-title="CANAIS: GLOBOSAT FILMES",Telecine Pipoca HD
+http://stream-sky.cf:80/andre123/andre123/305
+
+
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecinepipoca.png" group-title="CANAIS: GLOBOSAT FILMES",Telecine Pipoca FHD
+http://stream-sky.cf:80/andre123/andre123/306
+
+
+EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/telecineaction.png" group-title="CANAIS: GLOBOSAT FILMES",Telecine Action FHD
+http://stream-sky.cf:80/andre123/andre123/297
+
+#EXTINF:-1 tvg-name="Studio Universal FHD" tvg-logo="http://img.rtrmsrv22.gq/images/logos/studiouniversal.png" group-title="CANAIS: GLOBOSAT FILMES",Studio Universal FHD
+http://stream-sky.cf:80/andre123/andre123/281
+
+
+
+
+#EXTINF:-1 tvg-name="SBT RJ" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?EDSONSOUSALIST
+
+
+#EXTINF:-1 tvg-name="SBT HD" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAIS | ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-name="REDETV! HD" tvg-logo="https://i.imgur.com/YVPa4BB.png" group-title="CANAIS | ABERTOS",REDETV! HD
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1324522836_b2793472_DVR.m3u8
+
+
+
+#EXTINF:-1 tvg-name="GLOBO (Cortesia)" tvg-logo="https://i.imgur.com/2EK2yMM.png" group-title="CANAIS | ABERTOS",GLOBO (Cortesia)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Discovery Turbo FHD" tvg-logo="http://a5.vc/uCQ" group-title="CANAIS | VARIEDADES",Discovery Turbo FHD
+http://srvx.io:80/3689259212/fireurl.co/2007
+
+
+#EXTINF:-1 tvg-name="24H 3 Palavrinhas" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H 3 Palavrinhas
+http://stream-sky.cf:80/andre123/andre123/717100
+
+#EXTINF:-1 tvg-name="24H A Cobrinha Azul" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H A Cobrinha Azul
+http://stream-sky.cf:80/andre123/andre123/717101
+
+#EXTINF:-1 tvg-name="24H A Familia Dracula" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H A Familia Dracula
+http://stream-sky.cf:80/andre123/andre123/717102
+
+#EXTINF:-1 tvg-name="24H A Mumia" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H A Mumia
+http://stream-sky.cf:80/andre123/andre123/717103
+
+#EXTINF:-1 tvg-name="24H A Pantera Cor De Rosa" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H A Pantera Cor De Rosa
+http://stream-sky.cf:80/andre123/andre123/755668
+
+#EXTINF:-1 tvg-name="24H A Turma Da Monica" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H A Turma Da Monica
+http://stream-sky.cf:80/andre123/andre123/755690
+
+#EXTINF:-1 tvg-name="24H A Turma Do Pateta" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H A Turma Do Pateta
+http://stream-sky.cf:80/andre123/andre123/717105
+
+#EXTINF:-1 tvg-name="24H Acampamento Lakebottom" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Acampamento Lakebottom
+http://stream-sky.cf:80/andre123/andre123/717106
+
+#EXTINF:-1 tvg-name="24H Aladin Desenho Animado" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Aladin Desenho Animado
+http://stream-sky.cf:80/andre123/andre123/717107
+
+#EXTINF:-1 tvg-name="24H As Aventuras De Jackie Chan" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H As Aventuras De Jackie Chan
+http://stream-sky.cf:80/andre123/andre123/717108
+
+#EXTINF:-1 tvg-name="24H As Aventuras De Piggley Winks" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H As Aventuras De Piggley Winks
+http://stream-sky.cf:80/andre123/andre123/717109
+
+#EXTINF:-1 tvg-name="24H As Aventuras De Tintim" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H As Aventuras De Tintim
+http://stream-sky.cf:80/andre123/andre123/717110
+
+#EXTINF:-1 tvg-name="24H Baby Shark" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Baby Shark
+http://stream-sky.cf:80/andre123/andre123/755686
+
+#EXTINF:-1 tvg-name="24H Ben 10" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Ben 10
+http://stream-sky.cf:80/andre123/andre123/715109
+
+#EXTINF:-1 tvg-name="24H Ben E Holly" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Ben E Holly
+http://stream-sky.cf:80/andre123/andre123/755695
+
+#EXTINF:-1 tvg-name="24H Big Mouth" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Big Mouth
+http://stream-sky.cf:80/andre123/andre123/715097
+
+#EXTINF:-1 tvg-name="24H Bob Esponja" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Bob Esponja
+http://stream-sky.cf:80/andre123/andre123/715111
+
+#EXTINF:-1 tvg-name="24H CSI Las Vegas" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H CSI Las Vegas
+http://stream-sky.cf:80/andre123/andre123/755666
+
+#EXTINF:-1 tvg-name="24H Capit�o Tsubasa" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Capit�o Tsubasa
+http://stream-sky.cf:80/andre123/andre123/755675
+
+#EXTINF:-1 tvg-name="24H Cavaleiro Do Zodiaco" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Cavaleiro Do Zodiaco
+http://stream-sky.cf:80/andre123/andre123/715092
+
+#EXTINF:-1 tvg-name="24H Caverna Do Drag�o" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Caverna Do Drag�o
+http://stream-sky.cf:80/andre123/andre123/715101
+
+#EXTINF:-1 tvg-name="24H Chapolin Colorado" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Chapolin Colorado
+http://stream-sky.cf:80/andre123/andre123/755676
+
+#EXTINF:-1 tvg-name="24H Chaves" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Chaves
+http://stream-sky.cf:80/andre123/andre123/715110
+
+#EXTINF:-1 tvg-name="24H Daniel Tigre" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Daniel Tigre
+http://stream-sky.cf:80/andre123/andre123/755696
+
+#EXTINF:-1 tvg-name="24H Desenhos Biblicos" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Desenhos Biblicos
+http://stream-sky.cf:80/andre123/andre123/755697
+
+#EXTINF:-1 tvg-name="24H Dragon Ball Super" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Dragon Ball Super
+http://stream-sky.cf:80/andre123/andre123/755669
+
+#EXTINF:-1 tvg-name="24H Eu A Patroa E As Crian�as" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Eu A Patroa E As Crian�as
+http://stream-sky.cf:80/andre123/andre123/715105
+
+#EXTINF:-1 tvg-name="24H Faisca E Fuma�a" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Faisca E Fuma�a
+http://stream-sky.cf:80/andre123/andre123/755689
+
+#EXTINF:-1 tvg-name="24H Flash Gordon" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Flash Gordon
+http://stream-sky.cf:80/andre123/andre123/755682
+
+#EXTINF:-1 tvg-name="24H Galinha Pintadinha" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Galinha Pintadinha
+http://stream-sky.cf:80/andre123/andre123/715106
+
+#EXTINF:-1 tvg-name="24H He Man Desenho" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H He Man Desenho
+http://stream-sky.cf:80/andre123/andre123/755699
+
+#EXTINF:-1 tvg-name="24H High Score Girl" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H High Score Girl
+http://stream-sky.cf:80/andre123/andre123/755681
+
+#EXTINF:-1 tvg-name="24H Homem Aranha" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Homem Aranha
+http://stream-sky.cf:80/andre123/andre123/715108
+
+#EXTINF:-1 tvg-name="24H Irm�o Do Jorel" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Irm�o Do Jorel
+http://stream-sky.cf:80/andre123/andre123/755688
+
+#EXTINF:-1 tvg-name="24H Jonny Quest" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Jonny Quest
+http://stream-sky.cf:80/andre123/andre123/715103
+
+#EXTINF:-1 tvg-name="24H Jose Rei Do Egito" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Jose Rei Do Egito
+http://stream-sky.cf:80/andre123/andre123/715094
+
+#EXTINF:-1 tvg-name="24H Log Horizon" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Log Horizon
+http://stream-sky.cf:80/andre123/andre123/755691
+
+#EXTINF:-1 tvg-name="24H Luluzinha" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Luluzinha
+http://stream-sky.cf:80/andre123/andre123/755680
+
+#EXTINF:-1 tvg-name="24H Masha E O Urso" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Masha E O Urso
+http://stream-sky.cf:80/andre123/andre123/755683
+
+#EXTINF:-1 tvg-name="24H Meu Amig�oz�o" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Meu Amig�oz�o
+http://stream-sky.cf:80/andre123/andre123/755698
+
+#EXTINF:-1 tvg-name="24H Mickey Mouse" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Mickey Mouse
+http://stream-sky.cf:80/andre123/andre123/755673
+
+#EXTINF:-1 tvg-name="24H Mundo Bita" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Mundo Bita
+http://stream-sky.cf:80/andre123/andre123/755684
+
+#EXTINF:-1 tvg-name="24H Naruto" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Naruto
+http://stream-sky.cf:80/andre123/andre123/715098
+
+#EXTINF:-1 tvg-name="24H O Fantastico Mundo De Bobby" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H O Fantastico Mundo De Bobby
+http://stream-sky.cf:80/andre123/andre123/715095
+
+#EXTINF:-1 tvg-name="24H O Maskara" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H O Maskara
+http://stream-sky.cf:80/andre123/andre123/715096
+
+#EXTINF:-1 tvg-name="24H Os Padrinhos M�gicos" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Os Padrinhos M�gicos
+http://stream-sky.cf:80/andre123/andre123/755694
+
+#EXTINF:-1 tvg-name="24H Os Simpsons" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Os Simpsons
+http://stream-sky.cf:80/andre123/andre123/755678
+
+#EXTINF:-1 tvg-name="24H Os Trapalh�es" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Os Trapalh�es
+http://stream-sky.cf:80/andre123/andre123/755667
+
+#EXTINF:-1 tvg-name="24H Os Vingadores Desenho" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Os Vingadores Desenho
+http://stream-sky.cf:80/andre123/andre123/755674
+
+#EXTINF:-1 tvg-name="24H Patati Patata" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Patati Patata
+http://stream-sky.cf:80/andre123/andre123/755685
+
+#EXTINF:-1 tvg-name="24H Patrulha Canina" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Patrulha Canina
+http://stream-sky.cf:80/andre123/andre123/715104
+
+#EXTINF:-1 tvg-name="24H Peppa Pig" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Peppa Pig
+http://stream-sky.cf:80/andre123/andre123/715102
+
+#EXTINF:-1 tvg-name="24H Pica Pau" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Pica Pau
+http://stream-sky.cf:80/andre123/andre123/715107
+
+#EXTINF:-1 tvg-name="24H Popeye" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Popeye
+http://stream-sky.cf:80/andre123/andre123/715091
+
+#EXTINF:-1 tvg-name="24H Rick And Morty" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Rick And Morty
+http://stream-sky.cf:80/andre123/andre123/755677
+
+#EXTINF:-1 tvg-name="24H Rick And Morty 2" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Rick And Morty 2
+http://stream-sky.cf:80/andre123/andre123/755692
+
+#EXTINF:-1 tvg-name="24H Scooby Doo" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Scooby Doo
+http://stream-sky.cf:80/andre123/andre123/715089
+
+#EXTINF:-1 tvg-name="24H Senran Kagura Shinovi" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Senran Kagura Shinovi
+http://stream-sky.cf:80/andre123/andre123/755693
+
+#EXTINF:-1 tvg-name="24H Sitio Do Pica Pau Amarelo" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Sitio Do Pica Pau Amarelo
+http://stream-sky.cf:80/andre123/andre123/755665
+
+#EXTINF:-1 tvg-name="24H South Park" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H South Park
+http://stream-sky.cf:80/andre123/andre123/755679
+
+#EXTINF:-1 tvg-name="24H Tim�o E Pumba" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Tim�o E Pumba
+http://stream-sky.cf:80/andre123/andre123/755670
+
+#EXTINF:-1 tvg-name="24H Todo Mundo Odeia O Chris" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Todo Mundo Odeia O Chris
+http://stream-sky.cf:80/andre123/andre123/715099
+
+#EXTINF:-1 tvg-name="24H Tom E Jerry" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Tom E Jerry
+http://stream-sky.cf:80/andre123/andre123/715100
+
+#EXTINF:-1 tvg-name="24H Vai Que Cola" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Vai Que Cola
+http://stream-sky.cf:80/andre123/andre123/715090
+
+#EXTINF:-1 tvg-name="24H X-Men Antigo" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H X-Men Antigo
+http://stream-sky.cf:80/andre123/andre123/755671
+
+#EXTINF:-1 tvg-name="24H Yugioh Cl�ssico" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png" group-title="CANAIS: 24H",24H Yugioh Cl�ssico
+http://stream-sky.cf:80/andre123/andre123/755672
+
+
+
+#EXTINF:-1 tvg-name="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="CANAL ABERTO",BAND SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://a5.vc/JHX" group-title="CANAIS | VARIEDADES",A&E FHD
+http://srvx.io:80/3689259212/fireurl.co/2025
+
+
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://a5.vc/JHX" group-title="CANAIS | VARIEDADES",A&E HD
+http://srvx.io:80/3689259212/fireurl.co/1906
+
