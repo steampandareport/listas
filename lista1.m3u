@@ -1,0 +1,176 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1y8xoR.jpg" group-title="BRASIL", GLOBO
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="BRASIL", BAND
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8
+  
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="https://i.imgur.com/YZSLSAe.jpg" group-title="BRASIL", RECORD RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/zMvQ2s5.jpg" group-title="BRASIL", SBT
+http://lista.lorddark.club:80/5247/5247/1137 
+ 
+#EXTINF:-1 tvg-name="REDETV! HD" tvg-logo="https://i.imgur.com/YVPa4BB.png" group-title="BRASIL", REDETV! 
+http://lista.lorddark.club:80/5247/5247/1034 
+ 
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://i.imgur.com/GVYn0iG.jpg" group-title="BRASIL", GLOBO NEWS
+http://lista.lorddark.club/5247/5247/19233
+ 
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://i.imgur.com/rmAKO4g.jpg" group-title="BRASIL", CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+ 
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="BRASIL", BAND NEWS
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/eFzor1q.jpg" group-title="BRASIL", RECORD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpAiEDD.jpg" group-title="BRASIL", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BrpPZr.jpg" group-title="BRASIL", TV PAMPA
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kUkiymL.jpg" group-title="BRASIL", RDC TV
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w93534127.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuZmgBy.jpg" group-title="BRASIL", A PLATEIA
+https://video01.kshost.com.br/kamal3422/kamal3422/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yXmrDc9.jpg" group-title="BRASIL", TV AMÉRICA MIX
+https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpXlnyj.jpg" group-title="BRASIL", TV CULTURA
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1ySsHb8N4RiwpZsbTK7MWg)/dm/3/x7wur7g/s/live-3.m3u8
+ 
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://i.imgur.com/Su82rkb.jpg" group-title="BRASIL", TV BRASIL EBC
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FmUnT_Kcvx4)r(fVR9ug)a(s9hbwg)p(d(2xc)k(q8U)m(M6P1wNPObDiK3f0hpYnaYw)n(a(pIXoGw)s(rxI)'a(CCfWkQ)s(djU)))s(s(Kso)b(lguT_iEFcYOVb37ecPPvX_tYr3EJ_k3pcPpmu9GDiL_Y99B0WqkTmoG6_19EhYGuNgWUwk_SJsckQ1l6Uw)'s(jk8)b(kAMi1_XCD-Sr0ahRUdY3RbS4FETndVi_x76yCE-nQKyID_tJgPEdTJ0o1Zpu0tsydJ2WU9fDSaC69L4eEMlyPcL9Kx7zrhcjCr3MmQf3)'s(1os)b(SzONCenG))m(0))/1_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8ILKOgq.jpg" group-title="BRASIL", TV ASSEMBLEIA LEGISLATIVA RS
+http://ott.al.rs.gov.br/stream01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4m0Qt7.jpg" group-title="BRASIL", CANAL RURAL
+http://lista.lorddark.club/5247/5247/19573
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgSCPMl.jpg" group-title="BRASIL", TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxPSshq.jpg" group-title="BRASIL", AGRO+
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAyu6ym.jpg" group-title="BRASIL", CANAL DO BOI
+http://lista.lorddark.club/5247/5247/19398
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j9Kh63q.jpg" group-title="BRASIL", AGRO BRASIL TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EPtzX87.jpg" group-title="BRASIL", MULTISHOW
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/56A05EC.jpg" group-title="BRASIL", LOANDING TV
+https://centurylink.br.cdn.booyah.live/hls/1000005/34850987_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jkyPduI.jpg" group-title="ESPORTE", ESPN BRASIL 
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYNCTfx.jpg" group-title="ESPORTE", ESPN 
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2sMpDR.jpg" group-title="ESPORTE", ESPN 2 
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2zix1RY.jpg" group-title="ESPORTE", ESPN EXTRA 
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JetH4rL.jpg" group-title="ESPORTE", WATCH ESPN 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GkiGDqE.jpg" group-title="ESPORTE", SPORTV
+http://lista.lorddark.club:80/5247/5247/19116
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aumre7q.jpg" group-title="ESPORTE", SPORTV 2
+http://lista.lorddark.club:80/5247/5247/19114
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uySHMrh.jpg" group-title="ESPORTE", SPORTV 3
+http://lista.lorddark.club:80/5247/5247/19115
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L5tVf0v.jpg" group-title="ESPORTE", FOX SPORTS 
+http://lista.lorddark.club:80/5247/5247/19101
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUaNM9r.jpg" group-title="ESPORTE", FOX SPORTS 2
+http://lista.lorddark.club:80/5247/5247/19100
+ 
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://i.imgur.com/db2k5jn.jpg" group-title="ESPORTE", BAND SPORTS
+http://evpp.mm.uol.com.br:1935/geob_band/bandsports/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPbWjeM.jpg" group-title="ESPORTE", BAND SPORTS ON LINE
+http://evpp.mm.uol.com.br:1935/geob_band/esporte/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPbWjeM.jpg" group-title="ESPORTE", BAND SPORTS RUSSO
+http://evpp.mm.uol.com.br:1935/geob_band/campeonatorusso/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jzVpSYs.jpg" group-title="ESPORTE", TNT SPORTS
+https://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jzVpSYs.jpg" group-title="ESPORTE", TNT SPORTS
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jzVpSYs.jpg" group-title="ESPORTE", TNT SPORTS
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jzVpSYs.jpg" group-title="ESPORTE", MELHORES MOMENTOS TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jzVpSYs.jpg" group-title="ESPORTE", PROGRAMAÇÃO ESTÁDIO TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jzVpSYs.jpg" group-title="ESPORTE", ORIGINAIS TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vsx8zXQ.jpg" group-title="ESPORTE", CANAL COMBATE
+http://lista.lorddark.club:80/5247/5247/19094
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owUkVyM.jpg" group-title="INFANTIL", DISNEY JUNIOR
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSTgvg4.jpg" group-title="INFANTIL", DISNEY XD
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Rt0CJO.jpg" group-title="INFANTIL", DISNEY CHANNEL
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NARB3st.jpg" group-title="INFANTIL", PLAY KIDS
+https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="bhttps://i.imgur.com/KG8Nw3d.jpg" group-title="INFANTIL", BOOMERANG
+http://rec2.distv.net:80/magno/123456/121
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmhuEjU.jpg" group-title="INFANTIL", CARTOON NETWORK
+http://lista.lorddark.club/5247/5247/19166
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2bAnte.jpg" group-title="INFANTIL", DISCOVERY KIDS
+http://lista.lorddark.club/5247/5247/19189
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNxkjg8.jpg" group-title="INFANTIL", GLOOB
+http://lista.lorddark.club/5247/5247/19235
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wizt6f0.jpg" group-title="INFANTIL", NATGEO KIDS
+http://lista.lorddark.club/5247/5247/19277
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NxiIhR2.jpg" group-title="INFANTIL", NICK JR 
+http://lista.lorddark.club/5247/5247/19282
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aidssOF.jpg"  group-title="INFANTIL", NICKELODEON
+http://lista.lorddark.club/5247/5247/19284
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KdeAilP.jpg" group-title="ESPORTE INT", beIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmvudgC.jpg" group-title="ESPORTE INT", CLARO SPORTS
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYM6Fke.jpg" group-title="ESPORTE INT", TENNIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTM3U
